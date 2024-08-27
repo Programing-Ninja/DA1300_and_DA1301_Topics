@@ -12,3 +12,7 @@ Def ( building functions)
 Floating Point error
 Arrays
 Big O, Big Theeta, Big Omega
+Bitwise operators
+Conditional operaators
+Loops
+Basic arithmatic operators (modulo operator, +, -, *, /, // etc)
