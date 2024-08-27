@@ -11,3 +11,4 @@ Dir
 Def ( building functions)
 Floating Point error
 Arrays
+Big O, Big Theeta, Big Omega
