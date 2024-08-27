@@ -1,0 +1,13 @@
+﻿Concept Used:
+Magic Functions
+Append
+Extend
+Zip
+Enumerate
+Join
+Dictionary
+Help
+Dir
+Def ( building functions)
+Floating Point error
+Arrays
